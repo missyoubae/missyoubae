@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is **Mehedi Hasan Riad**
 #### To become proficient in Machine Learning and contribute to real-world applications.
-![To become proficient in Machine Learning and contribute to real-world applications.](https://scontent.fdac147-1.fna.fbcdn.net/v/t1.6435-9/141756824_1128793147537851_2253655257812187483_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeEYVGRSy4cqy59AAsxEJQ1sh6SBRmuy3VmHpIFGa7LdWVowgkMmrVDUvvVbg3fUlb0ni9P3Wc3Jaiw19mvK1pKq&_nc_ohc=572SKD5vZVYQ7kNvgGRAE4y&_nc_zt=23&_nc_ht=scontent.fdac147-1.fna&_nc_gid=AaHY-UQ8aOt58A9-nEDXo1E&oh=00_AYCM2jbz3AAZIeabZy2d1_hK6KoW-jiMeffKScjYVCCQCw&oe=676DB6AD)
+![To become proficient in Machine Learning and contribute to real-world applications.](https://scontent.fdac147-1.fna.fbcdn.net/v/t39.30808-6/457108142_1973572349726589_1892725077811988160_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEO3sZrzevZmGWNkoEgoG1N8-38IJmVbN3z7fwgmZVs3WiXF3rmlYjKQGOqdJt_uzO6Enl1jJAbbdnSXcnqg8Kn&_nc_ohc=jhKP1kb_OasQ7kNvgEUn7cn&_nc_zt=23&_nc_ht=scontent.fdac147-1.fna&_nc_gid=AAZXwL88zZPYEu49PGNw172&oh=00_AYC9YEaDZnVX6TTF5xGWSM7G4b53JC1CU291R2D7JqtWDA&oe=674BEE49)
 
 Hello! I'm **Mehedi Hasan Riad**, an undergraduate in Computer Science and Engineering (CSE) at East West University (EWU). I am passionate about technology, coding, and solving real-world problems through innovative solutions.
 
