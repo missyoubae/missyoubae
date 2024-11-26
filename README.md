@@ -21,7 +21,5 @@ Skills: C / C++ / MySQL / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missyoubae)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/missyoubae)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=missyoubae)  
 
